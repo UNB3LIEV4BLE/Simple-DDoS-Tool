@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/53f27ecb-b773-4460-83ac-4948a4ed403c)
+![image](https://github.com/user-attachments/assets/dd1d705f-a3d4-4948-b970-ba7ea10482d2)
 
 # ddos-tool
 A Simple DDoS Script Written in Python as a Part of **Code w/ me Streaming Series**
