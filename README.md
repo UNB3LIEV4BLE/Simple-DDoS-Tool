@@ -2,7 +2,8 @@
 
 # ddos-tool
 A Simple DDoS Script Written in Python as a Part of **Code w/ me Streaming Series**
-### REMASTERED BY @Pyth0000
+### REMASTERED AND BUG FIXED BY @Pyth0000
+### If you find any issues contact me
 
 #### Code w/ me
 Code w/ me is a streaming series where I code with a guest and discuss different topics at the same time such as implementation details or open questions in IT field. It's streamed on Twitch (<http://www.twitch.com/lekssays>) and exported to YouTube (<http://www.youtube.com/lekssaysahmed>). 
