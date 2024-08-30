@@ -11,7 +11,7 @@ For Ep #1 of the Code w/ me, my guest was **Omar Baalla (@Omarchaan)**, he is a 
 ### Pre-requisits:
 - Install Python3 (Python 3.7.3) with pip3
 ### Quick Setup
-- Clone the repository: `git clone https://github.com/Lekssays/ddos-tool.git`
+- Clone the repository: `git clone https://github.com/pyth0000/Simple-DDoS-Tool.git`
 - Install pip requirements: `pip3 install -r requirements.txt`
 ### Run the program
 - Usage: `python3 script.py [-h] [-u USER_AGENTS] -t TARGET -tr THREADS -s SLEEP`
