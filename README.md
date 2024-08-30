@@ -1,8 +1,9 @@
-![image](https://github.com/user-attachments/assets/dd1d705f-a3d4-4948-b970-ba7ea10482d2)
+![image](https://github.com/user-attachments/assets/f3642382-0a54-48d7-b09a-088b42dea551)
+
 
 # ddos-tool
 A Simple DDoS Script Written in Python as a Part of **Code w/ me Streaming Series**
-### REMASTERED AND BUG FIXED BY @Pyth0000
+### REMASTERED AND DEBUGGED BY @Pyth0000
 ### If you find any issues contact me
 
 #### Code w/ me
