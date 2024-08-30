@@ -8,7 +8,7 @@ from random import randrange
 from termcolor import colored
 
 def banner():
-    print("""
+    print(colored("""
  ██▓███ ▓██   ██▓▄▄▄█████▓ ██░ ██    ▓█████▄ ▓█████▄  ▒█████    ██████    ▄▄▄█████▓ ▒█████   ▒█████   ██▓    
 ▓██░  ██▒▒██  ██▒▓  ██▒ ▓▒▓██░ ██▒   ▒██▀ ██▌▒██▀ ██▌▒██▒  ██▒▒██    ▒    ▓  ██▒ ▓▒▒██▒  ██▒▒██▒  ██▒▓██▒    
 ▓██░ ██▓▒ ▒██ ██░▒ ▓██░ ▒░▒██▀▀██░   ░██   █▌░██   █▌▒██░  ██▒░ ▓██▄      ▒ ▓██░ ▒░▒██░  ██▒▒██░  ██▒▒██░    
@@ -19,10 +19,12 @@ def banner():
 ░░       ▒ ▒ ░░    ░       ░  ░░ ░    ░ ░  ░  ░ ░  ░ ░ ░ ░ ▒  ░  ░  ░       ░      ░ ░ ░ ▒  ░ ░ ░ ▒    ░ ░   
          ░ ░               ░  ░  ░      ░       ░        ░ ░        ░                  ░ ░      ░ ░      ░  ░
          ░ ░                          ░       ░                                                                                               
-    """
-    )
-    print(colored("Build a Simple DDoS Script with Python", 'yellow'))
-    print(colored("Authors: @Lekssays and @omarchaan\n\n", "Remastered by @Pyth0000", 'yellow'))
+    """, 'red'
+    ))
+    print(colored("Simple DDos Tool", 'yellow'))
+    print(colored("Authors: @Lekssays and @omarchaan\n", 'yellow'))
+    print(colored("Remastered by Pyth0000\n", 'magenta'))
+    print(colored("Have fun! Only for educational purposes hehe ;)\n", 'red'))
 
 def parse_args():
     parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
@@ -57,8 +59,8 @@ def get_user_agents(filename: str):
     return user_agents
 
 def get_proxies():
-    URL = "http://www.live-socks.net/2018/11/27-11-18-socks-5-servers_57.html?m=1"
-    req = requests.get(URL, timeout=10)
+    URL = "http://www.example.com"
+    req = requests.get(URL, timeout=30)
     content = req.text
     proxies = re.findall(r"(?:[\d]{1,3})\.(?:[\d]{1,3})\.(?:[\d]{1,3})\.(?:[\d]{1,3}):(?:[\d]{1,5})", content)
     return proxies
