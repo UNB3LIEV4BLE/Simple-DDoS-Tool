@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f3642382-0a54-48d7-b09a-088b42dea551)
+![image](https://github.com/user-attachments/assets/20c943b3-e04c-4e64-9ef5-75d143173381)
 
 
 # ddos-tool
