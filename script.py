@@ -22,7 +22,7 @@ def banner():
     """, 'red'
     ))
     print(colored("Simple DDos Tool", 'yellow'))
-    print(colored("Author: @UNB3LIEV4BLE, 'yellow'))
+    print(colored("Author: @UNB3LIEV4BLE", 'yellow'))
     print(colored("Have fun! Only for educational purposes hehe ;)\n", 'red'))
 
 def parse_args():
