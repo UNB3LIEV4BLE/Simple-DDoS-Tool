@@ -2,14 +2,8 @@
 
 
 # ddos-tool
-A Simple DDoS Script Written in Python as a Part of **Code w/ me Streaming Series**
-### REMASTERED AND DEBUGGED BY @Pyth0000
+A Simple DDoS Script written in Python when I was bored 
 ### If you find any issues contact me
-
-#### Code w/ me
-Code w/ me is a streaming series where I code with a guest and discuss different topics at the same time such as implementation details or open questions in IT field. It's streamed on Twitch (<http://www.twitch.com/lekssays>) and exported to YouTube (<http://www.youtube.com/lekssaysahmed>). 
-
-For Ep #1 of the Code w/ me, my guest was **Omar Baalla (@Omarchaan)**, he is a business analyst and I was glad and happy to discuss with him different topics in computer science.
 
 ## Deployment
 ### Pre-requisits:
@@ -27,4 +21,4 @@ For Ep #1 of the Code w/ me, my guest was **Omar Baalla (@Omarchaan)**, he is a 
 - `-s`: to specify number of threads executed before a break of 10 seconds (OPTIONAL, by default 100)
 
 #### Disclaimer
-This project is fully implemented for educational purposes only and I am not responsible by any means for any misuse.
+This project is fully implemented for educational purposes only and I am not responsible by any means for any missuse.
